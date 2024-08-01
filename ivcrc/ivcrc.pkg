@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'ivcrc': Instrumental variables estimator for the correlated random coefficients model Use ivcrc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _ivcrc_estimator.ado
+f ivcrc.ado
+f ivcrc.sthlp
+f spinst_musr.ado
