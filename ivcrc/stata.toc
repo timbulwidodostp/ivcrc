@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ivcrc Instrumental variables estimator for the correlated random coefficients model Use ivcrc With STATA 18
